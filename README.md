@@ -97,6 +97,7 @@ langchain-community
 
 📸 Screenshot
 
+<img width="1920" height="1082" alt="chatbot screenshot" src="https://github.com/user-attachments/assets/68c4021a-3f8c-4c8c-b818-cd0eb1747fb9" />
 
 
 🤝 Contributing
