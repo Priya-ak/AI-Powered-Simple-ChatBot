@@ -1,6 +1,6 @@
-# 🤖 Priya ChatBot – Streamlit + LangChain + Ollama
+# 🤖 ChatBot – Streamlit + LangChain + Ollama
 
-Priya ChatBot is a simple and powerful AI chatbot built using **Streamlit**, **LangChain**, and **Ollama**.  
+ChatBot is a simple and powerful AI chatbot built using **Streamlit**, **LangChain**, and **Ollama**.  
 It uses the **Llama2 model running locally** to answer user queries in real time.
 
 ---
